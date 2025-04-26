@@ -40,5 +40,5 @@ If your group agrees, you **may** use one of your group members' CS projects as 
 
     You will present your final presentation on the last day of this course (May 1, 2025).
 
-    You will also submit your code, data design document/models, and your PowerPoint presentation to D2L no later than **Friday, May 2** at **11:59 PM**.
+    You will also submit your code, data design document/models, and your PowerPoint presentation to D2L no later than **Friday, May 9** at **11:59 PM**.
 
